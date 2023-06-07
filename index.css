@@ -53,6 +53,10 @@ section {
   border: 2px solid green;
 }
 
+#ourstory .col-sm-4 {
+  border: 2px solid blue;
+}
+
 /* WHEN & WHERE */
 
 /* FAQS */
@@ -63,9 +67,15 @@ section {
 
 /* MEDIA QUERIES */
 
-/* HERO */
+/* MAX WIDTH 720PX */
+
 @media (max-width: 720px) {
+  /* HERO */
   .hero-headings {
     display: none;
+  }
+
+  /*OUR STORY */
+  #ourstory .container {
   }
 }
