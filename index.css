@@ -54,3 +54,10 @@ section {
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* MEDIA QUERIES */
+
+/* HERO */
+@media (max-width: 720px) {
+  .hero-headings {
+    display: none;
+  }
+}
