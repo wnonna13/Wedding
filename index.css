@@ -45,6 +45,14 @@ section {
 
 /* OUR STORY */
 
+#ourstory {
+  border: 2px solid red;
+}
+
+#ourstory h2 {
+  border: 2px solid green;
+}
+
 /* WHEN & WHERE */
 
 /* FAQS */
