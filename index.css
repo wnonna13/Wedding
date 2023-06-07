@@ -11,6 +11,14 @@ section {
 
 /* HERO */
 
+.hero-img {
+  border: 2px solid red;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("/media/photos/beach.JPG");
+  background-size: cover;
+}
+
 /* OUR STORY */
 
 /* WHEN & WHERE */
