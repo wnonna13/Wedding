@@ -3,21 +3,45 @@ h2 {
   text-align: center;
 }
 
-section {
+/*section {
   padding: 20px;
-}
+}/*
 
 /* NAVBAR */
 
 /* HERO */
 
-.hero-img {
+#hero img {
+  width: 100%;
+  position: relative;
+}
+
+.hero-headings {
+  top: 10%;
+  left: 2%;
+  position: absolute;
+  color: white;
+  border: 2px solid red;
+  z-index: 10;
+}
+
+#hero h1 {
+  font-size: 6vw;
+  text-align: left;
+}
+
+#hero h2 {
+  font-size: 4vw;
+  text-align: left;
+}
+
+/*.hero-img {
   border: 2px solid red;
   width: 100vw;
   height: 100vh;
   background-image: url("/media/photos/beach.JPG");
   background-size: cover;
-}
+}*/
 
 /* OUR STORY */
 
