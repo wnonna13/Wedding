@@ -18,6 +18,10 @@ nav a {
   color: #d4c7bd;
 }
 
+navbar-nav {
+  background-color: #d4c7bd;
+}
+
 /* HERO */
 
 #hero img {
