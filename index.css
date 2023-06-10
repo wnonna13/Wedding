@@ -12,7 +12,7 @@ h1,h2 {
 
 h2 {
   text-align: center;
-  font-size: 8vw;
+  font-size: 10vw;
 }
 
 h4, p {
@@ -100,6 +100,11 @@ navbar-nav {
 /* MAX WIDTH 720PX */
 
 @media (max-width: 720px) {
+  /* GLOBAL */
+  h2 {
+    font-size: 60px;
+  }
+
   /* HERO */
   .hero-headings {
     display: none;
