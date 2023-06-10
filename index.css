@@ -114,7 +114,20 @@ navbar-nav {
 
 /* RSVP */
 
+#rsvp {
+  color: black;
+}
+
 #rsvp p {
+  text-align: center;
+}
+
+#rsvp {
+  background-image: url("/media/photos/beach.JPG");
+}
+
+/* FOOTER */
+footer {
   text-align: center;
 }
 
