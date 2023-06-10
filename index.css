@@ -91,9 +91,20 @@ navbar-nav {
   background-image: url("/media/photos/landscape_sawah.JPG");
 }
 
+#whenwhere h2 {
+  color: black;
+}
+
 #whenwhere h3 {
   font-family: "Passions Conflict";
   font-size: 6vw;
+  color: #4b4c50;
+}
+
+#whenwhere p,
+#whenwhere h2,
+#whenwhere h4 {
+  color: #4b4c50;
 }
 /* FAQS */
 
