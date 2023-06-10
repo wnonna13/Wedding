@@ -28,12 +28,17 @@ section {
 
 nav a {
   color: black;
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Joan";
 }
 
 navbar-nav {
   background-color: #d4c7bd;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  font-family: "Passions Conflict";
 }
 
 .navbar-toggler {
