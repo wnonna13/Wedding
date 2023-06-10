@@ -22,7 +22,8 @@ section {
 /* NAVBAR */
 
 nav a {
-  color: #d4c7bd;
+  color: black;
+  font-size: 30px;
   font-family: 'Joan';
 }
 
