@@ -140,6 +140,10 @@ navbar-nav {
   text-align: center;
 }
 
+#rsvp span {
+  color: #ebe9e8;
+}
+
 #rsvp {
   background-image: url("/media/photos/beach.JPG");
 }
