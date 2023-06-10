@@ -15,6 +15,9 @@ h2 {
   font-size: 8vw;
 }
 
+h4, p {
+  font-family: 'Joan';
+}
 
 section {
   padding: 20px 0 20px 0;
@@ -86,11 +89,6 @@ navbar-nav {
   font-family: 'Passions Conflict';
   font-size: 6vw;
 }
-
-#whenwhere h4 {
-  font-family: 'Joan';
-}
-
 /* FAQS */
 
 /* RSVP */
