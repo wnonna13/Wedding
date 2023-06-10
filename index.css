@@ -15,6 +15,7 @@ h2 {
   font-size: 8vw;
 }
 
+
 section {
   padding: 20px 0 20px 0;
 }
@@ -80,6 +81,15 @@ navbar-nav {
 }
 
 /* WHEN & WHERE */
+
+#whenwhere h3 {
+  font-family: 'Passions Conflict';
+  font-size: 6vw;
+}
+
+#whenwhere h4 {
+  font-family: 'Joan';
+}
 
 /* FAQS */
 
