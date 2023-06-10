@@ -82,16 +82,7 @@ navbar-nav {
 /* OUR STORY */
 
 #ourstory {
-  border: 2px solid red;
   background-color: black;
-}
-
-#ourstory h2 {
-  border: 2px solid green;
-}
-
-#ourstory .col-sm-4 {
-  border: 2px solid blue;
 }
 
 /* WHEN & WHERE */
