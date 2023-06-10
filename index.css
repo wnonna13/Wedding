@@ -6,7 +6,7 @@ body {
 }
 
 h1,h2 {
-  font-family: 'Lavishly Yours', cursive
+  font-family: 'Mr Bedfort', cursive /*OR Lavishly Yours */
 }
 
 h2 {
@@ -41,7 +41,6 @@ navbar-nav {
   left: 5%;
   position: absolute;
   color: white;
-  border: 2px solid red;
   z-index: 10;
 }
 
