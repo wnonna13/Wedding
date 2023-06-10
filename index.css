@@ -112,6 +112,16 @@ navbar-nav {
   font-family: "Joan";
 }
 
+#faqs h4 {
+  text-align: center;
+  font-family: "Joan";
+  font-size: 20px;
+}
+
+#faqs .email {
+  font-size: 20px;
+}
+
 /* RSVP */
 
 #rsvp {
@@ -129,6 +139,7 @@ navbar-nav {
 /* FOOTER */
 footer {
   text-align: center;
+  color: rgb(54, 52, 52);
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
