@@ -3,10 +3,11 @@
 body {
   background-color: black;
   color: #d4c7bd;
+  background-image: url('/media/photos/landscape_sawah.JPG');
 }
 
 h1,h2 {
-  font-family: 'Mr Bedfort', cursive /*OR Lavishly Yours */
+  font-family: 'Passions Conflict', cursive /*OR Lavishly Yours */
 }
 
 h2 {
@@ -45,7 +46,7 @@ navbar-nav {
 }
 
 #hero h1 {
-  font-size: 6vw;
+  font-size: 7vw;
   text-align: left;
 }
 
