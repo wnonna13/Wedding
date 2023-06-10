@@ -3,20 +3,21 @@
 body {
   background-color: black;
   color: #d4c7bd;
-  background-image: url('/media/photos/landscape_sawah.JPG');
+  background-image: url("/media/photos/landscape_sawah.JPG");
 }
 
-h1,h2 {
-  font-family: 'Passions Conflict', cursive /*OR Lavishly Yours */
+h1,
+h2 {
+  font-family: "Passions Conflict", cursive; /*OR Lavishly Yours */
 }
 
 h2 {
   text-align: center;
   font-size: 10vw;
 }
-
-h4, p {
-  font-family: 'Joan';
+h4,
+p {
+  font-family: "Joan";
 }
 
 section {
@@ -28,11 +29,15 @@ section {
 nav a {
   color: black;
   font-size: 30px;
-  font-family: 'Joan';
+  font-family: "Joan";
 }
 
 navbar-nav {
   background-color: #d4c7bd;
+}
+
+.navbar-toggler {
+  border: 2px solid white;
 }
 
 /* HERO */
@@ -58,7 +63,7 @@ navbar-nav {
 #hero h3 {
   font-size: 2vw;
   text-align: center;
-  font-family: 'Joan';
+  font-family: "Joan";
 }
 
 /*.hero-img {
@@ -86,7 +91,7 @@ navbar-nav {
 /* WHEN & WHERE */
 
 #whenwhere h3 {
-  font-family: 'Passions Conflict';
+  font-family: "Passions Conflict";
   font-size: 6vw;
 }
 /* FAQS */
