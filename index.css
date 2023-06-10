@@ -30,7 +30,9 @@ nav a {
   color: #d4c7bd;
   font-size: 20px;
   font-family: "Joan";
-  transition: 150ms all ease-in-out;
+  padding: 0 10px 0 10px;
+  margin: 0 10px 0 10px;
+  transition: 250ms all ease-in-out;
 }
 
 nav a:hover {
