@@ -108,7 +108,15 @@ navbar-nav {
 }
 /* FAQS */
 
+#faqs h3 {
+  font-family: "Joan";
+}
+
 /* RSVP */
+
+#rsvp p {
+  text-align: center;
+}
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
