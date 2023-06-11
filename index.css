@@ -148,6 +148,14 @@ navbar-nav {
 
 #faqs .email {
   color: #82959d;
+  transition: 250ms all ease-in-out;
+}
+
+#faqs .email:hover {
+  background-color: #82959d;
+  color: black;
+  padding: 0 5px 0 5px;
+  border-radius: 3px;
 }
 
 /* RSVP */
