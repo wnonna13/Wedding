@@ -217,6 +217,23 @@ footer {
   #ourstory .container {
   }
 
+  /*WHEN & WHERE */
+
+  #whenwhere h2,
+  #whenwhere h3,
+  #whenwhere h4 {
+    text-align: center;
+  }
+
+  #whenwhere img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  #whenwhere h3 {
+    font-size: 50px;
+  }
+
   /* QUESTIONS */
   #faqs h3 {
     font-size: 24px;
