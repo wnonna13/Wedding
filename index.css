@@ -216,4 +216,9 @@ footer {
   /*OUR STORY */
   #ourstory .container {
   }
+
+  /* QUESTIONS */
+  #faqs h3 {
+    font-size: 24px;
+  }
 }
