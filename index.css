@@ -20,6 +20,10 @@ p {
   font-family: "Joan";
 }
 
+p {
+  font-size: 20px;
+}
+
 section {
   padding: 0 0 20px 0;
 }
