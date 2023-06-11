@@ -96,12 +96,14 @@ navbar-nav {
 
 #ourstory {
   background-color: black;
+  padding: 10px;
 }
 
 /* WHEN & WHERE */
 
 #whenwhere {
   background-image: url("/media/photos/landscape_sawah.JPG");
+  padding: 10px;
 }
 
 #whenwhere h2 {
@@ -120,6 +122,11 @@ navbar-nav {
   color: #4b4c50;
 }
 /* FAQS */
+
+#faqs {
+  border: 2px solid red;
+  padding: 10px;
+}
 
 #faqs h3 {
   font-family: "Joan";
@@ -147,6 +154,7 @@ navbar-nav {
 
 #rsvp {
   color: black;
+  padding: 10px;
 }
 
 #rsvp p {
