@@ -167,10 +167,19 @@ navbar-nav {
 
 #rsvp p {
   text-align: center;
+  padding: 0 5px 0 5px;
 }
 
 #rsvp span {
   color: #ebe9e8;
+  transition: 150ms all ease-in-out;
+}
+
+#rsvp span:hover {
+  background-color: white;
+  color: black;
+  padding: 0 5px 0 5px;
+  border-radius: 3px;
 }
 
 #rsvp {
