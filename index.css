@@ -64,6 +64,10 @@ navbar-nav {
 
 /* HERO */
 
+#hero {
+  padding-top: 90px;
+}
+
 #hero img {
   width: 100%;
   position: relative;
