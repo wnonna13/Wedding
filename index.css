@@ -129,6 +129,15 @@ navbar-nav {
 #whenwhere h4 {
   color: #4b4c50;
 }
+
+#whenwhere .day-1 {
+  border: 2px solid red;
+}
+
+#whenwhere .day-2 {
+  border: 2px solid blue;
+}
+
 /* FAQS */
 
 #faqs {
