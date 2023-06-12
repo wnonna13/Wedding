@@ -30,6 +30,10 @@ section {
 
 /* NAVBAR */
 
+nav {
+  background-color: rgba(0, 0, 0, 0.828);
+}
+
 nav a {
   color: #d4c7bd;
   font-size: 20px;
