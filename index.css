@@ -233,6 +233,7 @@ navbar-nav {
   color: #39393cd9;
   display: flex;
   justify-content: center;
+  font-size: 28px;
 }
 
 /* RSVP */
@@ -326,5 +327,10 @@ footer p {
   /* QUESTIONS */
   #faqs h3 {
     font-size: 24px;
+  }
+
+  #faqs,
+  #faqs h3 {
+    text-align: center;
   }
 }
