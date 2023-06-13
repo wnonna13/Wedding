@@ -282,7 +282,7 @@ footer p {
 @media (max-width: 720px) {
   /* GLOBAL */
   h2 {
-    font-size: 60px;
+    font-size: 80px;
   }
 
   p {
@@ -312,7 +312,11 @@ footer p {
   }
 
   #whenwhere h3 {
-    font-size: 50px;
+    font-size: 60px;
+  }
+
+  #whenwhere h4 {
+    font-size: 20px;
   }
 
   #whenwhere .change-color {
