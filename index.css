@@ -21,7 +21,7 @@ p {
 }
 
 p {
-  font-size: 2vw;
+  font-size: 18px;
 }
 
 section {
@@ -115,6 +115,9 @@ navbar-nav {
   padding-top: 30px;
 }
 
+#ourstory p {
+  padding: 10px;
+}
 /* WHEN & WHERE */
 
 #whenwhere {
