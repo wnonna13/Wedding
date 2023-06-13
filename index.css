@@ -107,6 +107,14 @@ navbar-nav {
   padding: 10px;
 }
 
+#ourstory .col-sm-4 {
+  border: 2px solid red;
+}
+
+#ourstory img {
+  border: 2px solid yellow;
+}
+
 /* WHEN & WHERE */
 
 #whenwhere {
