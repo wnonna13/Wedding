@@ -147,6 +147,9 @@ navbar-nav {
 #whenwhere .bali-house {
   background-image: url("/media/photos/balihouse.JPG");
   background-size: cover;
+  border: 6px solid #333437;
+  box-shadow: 10px 8px 10px #82959d;
+  border-radius: 8px;
 }
 
 #whenwhere .erase {
