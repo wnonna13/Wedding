@@ -145,14 +145,20 @@ navbar-nav {
 }
 
 #whenwhere .bali-house {
-  background-image: url("/media/photos/landscape_green.png");
-  border-radius: 5px;
+  background-image: url("/media/photos/balihouse.JPG");
+  background-size: cover;
 }
 
-.bali-house img {
+#whenwhere .erase {
+  font-size: 200px;
+  opacity: 0;
+}
+
+/*.bali-house img {
   opacity: 0.9;
   border-radius: 20px;
-}
+  padding-top: 30px;
+}*/
 
 /*
 #whenwhere .day-1 {
