@@ -200,6 +200,7 @@ navbar-nav {
 #faqs h3 {
   font-family: "Joan";
   color: #82959d;
+  text-align: left;
 }
 
 #faqs h4 {
@@ -226,6 +227,12 @@ navbar-nav {
   color: black;
   padding: 0 5px 0 5px;
   border-radius: 3px;
+}
+
+#faqs i {
+  color: #333437;
+  display: flex;
+  justify-content: center;
 }
 
 /* RSVP */
