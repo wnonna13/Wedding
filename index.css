@@ -21,7 +21,7 @@ p {
 }
 
 p {
-  font-size: 20px;
+  font-size: 2vw;
 }
 
 section {
@@ -144,12 +144,20 @@ navbar-nav {
   margin: 0 auto;
 }
 
-#whenwhere .bali-house {
+#whenwhere .bali-img {
+  border: 6px solid #333437;
+  border-radius: 8px;
+}
+
+#whenwhere .ariya-home {
   background-image: url("/media/photos/balihouse.JPG");
   background-size: cover;
-  border: 6px solid #333437;
-  box-shadow: 10px 8px 10px #82959d;
-  border-radius: 8px;
+  /*box-shadow: 10px 8px 10px #82959d;*/
+}
+
+#whenwhere .hotel {
+  background-image: url("/media/photos/baliplaceholder.jpeg");
+  background-size: cover;
 }
 
 #whenwhere .erase {
