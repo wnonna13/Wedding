@@ -279,6 +279,19 @@ footer .photo-cred {
   color: #82959d;
 }
 
+footer a {
+  color: #d4c7bd;
+  transition: 150ms all ease-in-out;
+  padding: 2px 5px 2px 5px;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: black;
+  background-color: #82959d;
+  border-radius: 5px;
+}
+
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* MEDIA QUERIES */
