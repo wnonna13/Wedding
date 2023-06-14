@@ -219,6 +219,7 @@ navbar-nav {
 
 #faqs .email {
   color: #82959d;
+  padding: 0 5px 0 5px;
   transition: 250ms all ease-in-out;
 }
 
@@ -251,6 +252,7 @@ navbar-nav {
 #rsvp span {
   color: #ebe9e8;
   transition: 150ms all ease-in-out;
+  padding: 0 5px 0 5px;
 }
 
 #rsvp span:hover {
