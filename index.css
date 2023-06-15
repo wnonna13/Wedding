@@ -53,6 +53,11 @@ navbar-nav {
   background-color: #d4c7bd;
 }
 
+nav i {
+  color: #d4c7bd;
+  margin-top: 5px;
+}
+
 .navbar-brand {
   font-size: 40px;
   font-family: "Passions Conflict";
