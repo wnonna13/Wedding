@@ -34,7 +34,7 @@ nav {
   background-color: rgba(0, 0, 0, 0.828);
 }
 
-nav a {
+.navbar-nav a {
   color: #d4c7bd;
   font-size: 20px;
   font-family: "Joan";
@@ -43,7 +43,7 @@ nav a {
   transition: 250ms all ease-in-out;
 }
 
-nav a:hover {
+.navbar-nav a:hover {
   background-color: #82959d;
   color: black;
   border-radius: 5px;
