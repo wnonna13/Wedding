@@ -325,6 +325,11 @@ footer a:hover {
 
   /*WHEN & WHERE */
 
+  #whenwhere {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   #whenwhere h2,
   #whenwhere h3,
   #whenwhere h4 {
