@@ -4,6 +4,7 @@ body {
   background-color: black;
   color: #d4c7bd;
   /*background-image: url("/media/photos/landscape_sawah.JPG");*/
+  position: relative;
 }
 
 h1,
