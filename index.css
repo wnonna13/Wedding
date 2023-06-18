@@ -262,6 +262,11 @@ nav i {
   padding: 10px;
 }
 
+#rsvp img {
+  opacity: 0.4;
+  width: 100%;
+}
+
 #rsvp p {
   text-align: center;
   padding: 0 5px 0 5px;
@@ -280,9 +285,22 @@ nav i {
   border-radius: 3px;
 }
 
-#rsvp {
-  background-image: url("/media/photos/beach.JPG");
+#rsvp .background-img {
+  position: relative;
+  z-index: -1;
 }
+
+#rsvp .info {
+  position: absolute;
+  z-index: 10;
+  border: 2px solid green;
+  top: 150px;
+  color: white;
+}
+
+/*#rsvp {
+  background-image: url("/media/photos/beach.JPG");
+}*/
 
 /* FOOTER */
 footer {
