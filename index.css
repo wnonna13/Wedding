@@ -124,7 +124,20 @@ nav i {
 #ourstory p {
   padding: 10px;
 }
-/* WHEN & WHERE */
+
+/* NEW WHEN & WHERE 2 */
+
+#whenwhere2 .background-img {
+  background-image: url("/media/photos/landscape_sawah.JPG");
+  border: 2px solid red;
+  min-height: 500px;
+}
+
+#whenwhere2 {
+  color: black;
+}
+
+/* ORIGINAL WHEN & WHERE */
 /*
 #whenwhere {
   background-image: url("/media/photos/landscape_sawah.JPG");
