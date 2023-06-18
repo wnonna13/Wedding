@@ -128,13 +128,29 @@ nav i {
 /* NEW WHEN & WHERE 2 */
 
 #whenwhere2 .background-img {
-  background-image: url("/media/photos/landscape_sawah.JPG");
   border: 2px solid red;
   min-height: 500px;
+  z-index: -1;
+  opacity: 1;
+  position: relative;
 }
 
 #whenwhere2 {
   color: black;
+}
+
+#whenwhere2 img {
+  width: 100%;
+  opacity: 0.4;
+}
+
+#whenwhere2 .container {
+  position: absolute;
+  z-index: 10;
+  border: 2px solid blue;
+  color: white;
+  top: 10px;
+  opacity: 1;
 }
 
 /* ORIGINAL WHEN & WHERE */
