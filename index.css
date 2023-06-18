@@ -152,6 +152,10 @@ nav i {
   margin: 0 auto;
 }
 
+#whenwhere i {
+  color: black;
+}
+
 #whenwhere .bali-img {
   border: 6px solid #333437;
   border-radius: 8px;
