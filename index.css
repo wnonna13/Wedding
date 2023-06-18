@@ -125,7 +125,7 @@ nav i {
   padding: 10px;
 }
 /* WHEN & WHERE */
-
+/*
 #whenwhere {
   background-image: url("/media/photos/landscape_sawah.JPG");
   padding-top: 100px;
@@ -167,7 +167,7 @@ nav i {
 #whenwhere .ariya-home {
   background-image: url("/media/photos/balihouse.JPG");
   background-size: cover;
-  /*box-shadow: 10px 8px 10px #82959d;*/
+  /*box-shadow: 10px 8px 10px #82959d;
 }
 
 #whenwhere .hotel {
@@ -178,30 +178,7 @@ nav i {
 #whenwhere .erase {
   font-size: 200px;
   opacity: 0;
-}
-
-/*.bali-house img {
-  opacity: 0.9;
-  border-radius: 20px;
-  padding-top: 30px;
-}*/
-
-/*
-#whenwhere .day-1 {
-  border: 2px solid red;
-}
-
-#whenwhere .day-1 img {
-  border: 2px solid green;
-}
-
-#whenwhere .day-2 {
-  border: 2px solid blue;
-}
-
-#whenwhere .col-sm-6 {
-  border: 2px solid yellow;
-}*/
+}/*
 
 /* FAQS */
 
