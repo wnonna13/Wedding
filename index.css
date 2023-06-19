@@ -127,6 +127,16 @@ nav i {
 
 /* NEW WHEN & WHERE 2 */
 
+#whenwhere2 img {
+  width: 100%;
+  opacity: 0.3;
+}
+
+#whenwhere2 h3 {
+  font-family: "Passions Conflict";
+  font-size: 70px;
+}
+
 #whenwhere2 .background-img {
   border: 2px solid red;
   min-height: 500px;
@@ -137,11 +147,6 @@ nav i {
 
 #whenwhere2 {
   color: black;
-}
-
-#whenwhere2 img {
-  width: 100%;
-  opacity: 0.3;
 }
 
 #whenwhere2 .container {
