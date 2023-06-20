@@ -144,13 +144,12 @@ nav i {
 }
 
 #whenwhere2 h2 {
-  border: 2px soild violet;
+  margin-top: 50px;
 }
 
 #whenwhere2 h3 {
   font-family: "Passions Conflict";
   font-size: 70px;
-  border: 2px solid orange;
 }
 
 #whenwhere2 .background-img {
@@ -168,7 +167,6 @@ nav i {
 #whenwhere2 .container {
   position: absolute;
   z-index: 10;
-  border: 2px solid blue;
   color: white;
   top: 20%;
   bottom: 20%;
@@ -183,18 +181,17 @@ nav i {
 }
 
 #whenwhere2 .row {
-  border: 2px solid green;
   width: 100%;
   padding-top: 5%;
 }
 
 #whenwhere2 .col-md-6 {
-  border: 2px solid pink;
 }
 
 #whenwhere2 .day-1,
 #whenwhere2 .day-2 {
   border: 2px solid yellow;
+  margin-bottom: 100px;
 }
 
 /* ORIGINAL WHEN & WHERE */
