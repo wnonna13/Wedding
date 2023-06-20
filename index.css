@@ -192,7 +192,7 @@ nav i {
 #whenwhere2 .day-2 {
   padding: 10px 20px 10px 20px;
   margin-bottom: 100px;
-  background-color: #090c079e;
+  background-color: #090c07cd;
 }
 
 /* ORIGINAL WHEN & WHERE */
@@ -254,7 +254,7 @@ nav i {
 /* FAQS */
 
 #faqs {
-  padding-top: 100px;
+  padding: 100px 10px 10px 10px;
 }
 
 #faqs h3 {
