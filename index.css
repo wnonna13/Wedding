@@ -190,9 +190,9 @@ nav i {
 
 #whenwhere2 .day-1,
 #whenwhere2 .day-2 {
-  border: 2px solid yellow;
-  padding: 0 20px 0 20px;
+  padding: 10px 20px 10px 20px;
   margin-bottom: 100px;
+  background-color: #1d330b9e;
 }
 
 /* ORIGINAL WHEN & WHERE */
