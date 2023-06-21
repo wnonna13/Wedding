@@ -162,6 +162,7 @@ nav i {
 
 #whenwhere2 {
   color: black;
+  margin-right: 20px;
 }
 
 #whenwhere2 .container {
@@ -301,6 +302,10 @@ nav i {
 
 /* RESERVE */
 
+#reserve {
+  margin-right: 40px;
+}
+
 #reserve .fill {
   background-image: url("/media/photos/balihouse.JPG");
   background-size: cover;
@@ -346,7 +351,6 @@ nav i {
   color: white;
   top: 20%;
   bottom: 20%;
-  left: 10%;
   opacity: 1;
   display: flex;
   flex-direction: column;
@@ -364,7 +368,6 @@ nav i {
 #reserve .day-2 {
   padding: 50px 20px 10px 20px;
   margin: 0px 100px 100px 100px;
-
   background-color: #090c07cd;
   max-width: 100%;
 }
@@ -526,5 +529,17 @@ footer a:hover {
   #questions,
   #questions h3 {
     text-align: center;
+  }
+
+  /* RESERVE */
+  #reserve h3 {
+    font-size: 45px;
+  }
+
+  #reserve .day-1,
+  #reserve .day-2 {
+    padding: 50px 20px 10px 20px;
+    margin: 0px 30px 30px 30px;
+    max-width: 100%;
   }
 }
