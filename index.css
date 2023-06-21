@@ -299,7 +299,7 @@ nav i {
 
 /* RESERVE */
 
-#whenwhere2 .fill {
+#reserve .fill {
   background-image: url("/media/photos/landscape_sawah2.JPG");
   background-size: cover;
   background-position: center;
@@ -309,16 +309,16 @@ nav i {
   opacity: 0.4;
 }
 
-#whenwhere2 h2 {
+#reserve h2 {
   margin-top: 50px;
 }
 
-#whenwhere2 h3 {
+#reserve h3 {
   font-family: "Passions Conflict";
   font-size: 70px;
 }
 
-#whenwhere2 .background-img {
+#reserve .background-img {
   padding: 0 0 0 30px;
   min-height: 500px;
   z-index: -1;
@@ -326,11 +326,11 @@ nav i {
   position: relative;
 }
 
-#whenwhere2 {
+#reserve {
   color: black;
 }
 
-#whenwhere2 .container {
+#reserve .container {
   position: absolute;
   z-index: 10;
   color: white;
@@ -346,16 +346,16 @@ nav i {
   text-align: center;
 }
 
-#whenwhere2 .row {
+#reserve .row {
   width: 100%;
   padding-top: 5%;
 }
 
-#whenwhere2 .col-md-6 {
+#reserve .col-md-6 {
 }
 
-#whenwhere2 .day-1,
-#whenwhere2 .day-2 {
+#reserve .day-1,
+#reserve .day-2 {
   padding: 10px 20px 10px 20px;
   margin-bottom: 100px;
   background-color: #090c07cd;
