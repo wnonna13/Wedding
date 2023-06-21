@@ -279,15 +279,17 @@ nav i {
 
 #questions .email {
   color: #82959d;
-  padding: 0 5px 0 5px;
+  padding: 0 8px 0 8px;
   transition: 250ms all ease-in-out;
+  font-family: "Passions Conflict";
+  font-size: 60px;
 }
 
 #questions .email:hover {
-  background-color: #82959d;
-  color: black;
-  padding: 0 5px 0 5px;
+  color: #eae35a;
+  padding: 0 8px 0 8px;
   border-radius: 3px;
+  cursor: pointer;
 }
 
 #questions i {
@@ -365,6 +367,20 @@ nav i {
 
   background-color: #090c07cd;
   max-width: 100%;
+}
+
+#reserve .email {
+  color: #82959d;
+  padding: 0 5px 0 5px;
+  transition: 250ms all ease-in-out;
+}
+
+#reserve .email:hover {
+  background-color: #82959d;
+  color: black;
+  padding: 0 5px 0 5px;
+  border-radius: 3px;
+  z-index: 10;
 }
 
 /* RSVP */
