@@ -478,6 +478,10 @@ footer a:hover {
   }
 
   /* NAVBAR */
+  .navbar-nav a {
+    width: 30%;
+    transition: 250ms all ease-in-out;
+  }
 
   .navbar-nav a:hover {
     background-color: #82959d;
