@@ -477,6 +477,15 @@ footer a:hover {
     font-size: 18px;
   }
 
+  /* NAVBAR */
+
+  .navbar-nav a:hover {
+    background-color: #82959d;
+    width: 30%;
+    color: black;
+    border-radius: 5px;
+  }
+
   /* HERO */
   .hero-headings {
     display: none;
