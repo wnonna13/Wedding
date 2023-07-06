@@ -303,7 +303,7 @@ nav i {
 /* RESERVE */
 
 #reserve {
-  margin-right: 40px;
+  margin-right: 0px;
 }
 
 #reserve .fill {
@@ -352,6 +352,7 @@ nav i {
   top: 20%;
   bottom: 20%;
   left: 10%;
+  right: 10%;
   opacity: 1;
   display: flex;
   flex-direction: column;
