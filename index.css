@@ -199,6 +199,11 @@ nav i {
   background-color: #090c07cd;
 }
 
+#whenwhere2 .date {
+  font-family: "Passions Conflict";
+  font-size: 40px;
+}
+
 /* ORIGINAL WHEN & WHERE */
 /*
 #whenwhere {
