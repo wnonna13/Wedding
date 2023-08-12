@@ -201,62 +201,6 @@ nav i {
   font-size: 40px;
 }
 
-/* ORIGINAL WHEN & WHERE */
-/*
-#whenwhere {
-  background-image: url("/media/photos/landscape_sawah.JPG");
-  padding-top: 100px;
-}
-
-#whenwhere h2 {
-  color: black;
-}
-
-#whenwhere h3 {
-  font-family: "Passions Conflict";
-  font-size: 6vw;
-  color: #333437;
-}
-
-#whenwhere p,
-#whenwhere h2,
-#whenwhere h4 {
-  color: #333437;
-}
-
-#whenwhere img {
-  display: block;
-  margin: 0 auto;
-}
-
-#whenwhere i {
-  color: #39393cd9;
-  display: flex;
-  justify-content: center;
-  font-size: 28px;
-}
-
-#whenwhere .bali-img {
-  border: 6px solid #333437;
-  border-radius: 8px;
-}
-
-#whenwhere .ariya-home {
-  background-image: url("/media/photos/balihouse.JPG");
-  background-size: cover;
-  /*box-shadow: 10px 8px 10px #82959d;
-}
-
-#whenwhere .hotel {
-  background-image: url("/media/photos/baliplaceholder.jpeg");
-  background-size: cover;
-}
-
-#whenwhere .erase {
-  font-size: 200px;
-  opacity: 0;
-}/*
-
 /* FAQS */
 
 #questions {
@@ -304,6 +248,8 @@ nav i {
   justify-content: center;
   font-size: 28px;
 }
+
+/* CULTURE */
 
 /* RESERVE */
 
