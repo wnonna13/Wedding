@@ -273,6 +273,13 @@ nav i {
   line-height: 140%;
 }
 
+#culture h5 {
+  color: #d4c7bd;
+  font-size: 20px;
+  margin-top: 15px;
+  font-family: "Joan";
+}
+
 #culture .background-img {
   padding: 0 0 0 30px;
   min-height: 500px;
@@ -312,6 +319,11 @@ nav i {
   padding: 10px 20px 10px 20px;
   margin-bottom: 100px;
   background-color: #090c07cd;
+}
+
+#culture .col-md-3 img {
+  max-width: 50px;
+  max-height: 50px;
 }
 
 #culture .date {
