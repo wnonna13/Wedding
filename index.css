@@ -333,8 +333,10 @@ nav i {
 }
 
 #culture .col-md-6 #bali {
-  width: 200px;
-  border: 2px solid red;
+  width: 70px;
+  height: 70px;
+  margin-bottom: -20px;
+  margin-top: -5px;
 }
 
 #culture .date {
