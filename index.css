@@ -285,6 +285,13 @@ nav i {
   font-family: "Passions Conflict";
   font-size: 70px;
   border: 2px solid red;
+  background-color: yellow;
+  z-index: 30;
+}
+
+#culture h3:hover {
+  background-color: black;
+  z-index: 30;
 }
 
 #culture a {
