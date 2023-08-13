@@ -321,6 +321,10 @@ nav i {
   background-color: #090c07cd;
 }
 
+#culture .col-md-3 {
+  min-width: 300px;
+}
+
 #culture .col-md-3 img {
   max-width: 50px;
   max-height: 50px;
@@ -329,6 +333,10 @@ nav i {
 #culture .date {
   font-family: "Passions Conflict";
   font-size: 40px;
+}
+
+.culture h3 {
+  font-size: 25px;
 }
 
 #culture i {
