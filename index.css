@@ -260,6 +260,23 @@ nav i {
   opacity: 0.4;
 }
 
+#culture .email {
+  color: #82959d;
+  padding: 0 8px 0 8px;
+  transition: 250ms all ease-in-out;
+  font-family: "Passions Conflict";
+  font-size: 60px;
+  z-index: 10;
+}
+
+#culture .email:hover {
+  color: #eae35a;
+  padding: 0 8px 0 8px;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 10;
+}
+
 #culture h2 {
   margin-top: 50px;
 }
@@ -267,7 +284,18 @@ nav i {
 #culture h3 {
   font-family: "Passions Conflict";
   font-size: 70px;
+  border: 2px solid red;
 }
+
+#culture a {
+  color: yellow;
+  z-index: 10;
+}
+
+#culture a:hover {
+  color: green;
+}
+
 #culture h4 {
   color: #82959d;
   line-height: 140%;
@@ -325,6 +353,8 @@ nav i {
 
 #culture .col-md-6 {
   max-width: 300px;
+  margin: 10px;
+  border: 2px solid yellow;
 }
 
 #culture .col-md-6 img {
