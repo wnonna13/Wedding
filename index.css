@@ -321,11 +321,10 @@ nav i {
   background-color: #090c07cd;
 }
 
-#culture .col-md-3 {
-  min-width: 300px;
+#culture .col-md-6 {
 }
 
-#culture .col-md-3 img {
+#culture .col-md-6 img {
   max-width: 50px;
   max-height: 50px;
 }
