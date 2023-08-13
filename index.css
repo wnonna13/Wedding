@@ -376,12 +376,18 @@ nav i {
   font-size: 40px;
 }
 
-.culture h3 {
-  font-size: 25px;
-}
-
 #culture i {
   font-size: 80px;
+}
+
+#culture button {
+  z-index: 20;
+  border: 2px solid green;
+  background-color: yellow;
+}
+
+#culture button:hover {
+  z-index: 20;
 }
 
 /* RESERVE */
