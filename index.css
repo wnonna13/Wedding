@@ -249,6 +249,145 @@ nav i {
   font-size: 28px;
 }
 
+/* NEW CULTURE */
+
+#culture2 .email {
+  color: #82959d;
+  padding: 0 8px 0 8px;
+  transition: 250ms all ease-in-out;
+  font-family: "Passions Conflict";
+  font-size: 60px;
+  z-index: 10;
+}
+
+#culture2 .email:hover {
+  color: #eae35a;
+  padding: 0 8px 0 8px;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+#culture2 h2 {
+  margin-top: 50px;
+}
+
+#culture2 h3 {
+  font-family: "Passions Conflict";
+  font-size: 70px;
+  border: 2px solid red;
+  background-color: yellow;
+  z-index: 30;
+}
+
+#culture2 .clothes:hover {
+  background-color: pink;
+  z-index: 30;
+}
+
+#culture2 a {
+  color: yellow;
+  z-index: 10;
+  transition: all 150ms ease-in-out;
+}
+
+#culture2 a:hover {
+  background-color: green;
+}
+
+#culture2 h4 {
+  color: #82959d;
+  line-height: 140%;
+}
+
+#culture2 h5 {
+  color: #d4c7bd;
+  font-size: 20px;
+  margin-top: 15px;
+  font-family: "Joan";
+}
+
+#culture2 .background-img {
+  padding: 0 0 0 30px;
+  min-height: 500px;
+  z-index: -1;
+  opacity: 1;
+  position: relative;
+}
+
+#culture2 {
+  color: black;
+  margin-right: 20px;
+}
+
+#culture2 .container {
+  z-index: 10;
+  color: #d4c7bd;
+  top: 20%;
+  bottom: 20%;
+  left: 10%;
+  max-width: 80%;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#culture2 .row {
+  width: 100%;
+  padding-top: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#culture2 .icons {
+  padding: 30px 20px 10px 20px;
+  background-color: #090c07cd;
+}
+
+#culture2 .col-md-6 {
+  max-width: 300px;
+  max-height: 180px;
+  margin: 10px;
+  border: 2px solid yellow;
+  padding: 0px;
+}
+
+#culture2 .col-md-6 img {
+  width: 50px;
+  height: 50px;
+}
+
+#culture2 .col-md-6 #bali {
+  width: 70px;
+  height: 70px;
+  margin-bottom: -20px;
+  margin-top: -5px;
+}
+
+#culture2 .date {
+  font-family: "Passions Conflict";
+  font-size: 40px;
+}
+
+#culture2 i {
+  font-size: 80px;
+}
+
+#culture2 button {
+  z-index: 20;
+  border: 2px solid green;
+  background-color: yellow;
+}
+
+#culture2 button:hover {
+  z-index: 20;
+}
+
 /* CULTURE */
 #culture .fill {
   background-image: url("/media/photos/canang.jpg");
