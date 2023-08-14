@@ -338,11 +338,11 @@ nav i {
 #culture2 .icons {
   padding: 30px 20px 10px 20px;
   background-color: #090c07;
-  transition: all 250ms ease-in-out;
+  transition: all 500ms ease-in-out;
 }
 
 #culture2 .icons:hover {
-  background-color: #ba1616ac;
+  background-color: #070303ac;
   color: #eae35a;
 }
 
@@ -351,7 +351,12 @@ nav i {
   max-height: 180px;
   margin: 10px;
   padding: 0px;
-  transition: all 250ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+
+#culture2 .col-md-6:hover {
+  background-image: url(/media/photos/canang.jpg);
+  background-size: cover;
 }
 
 #culture2 .cuisine {
