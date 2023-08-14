@@ -280,19 +280,13 @@ nav i {
   z-index: 30;
 }
 
+#culture2 h3:hover {
+  background-color: green;
+}
+
 #culture2 .clothes:hover {
   background-color: pink;
   z-index: 30;
-}
-
-#culture2 a {
-  color: yellow;
-  z-index: 10;
-  transition: all 150ms ease-in-out;
-}
-
-#culture2 a:hover {
-  background-color: green;
 }
 
 #culture2 h4 {
@@ -312,7 +306,6 @@ nav i {
   min-height: 500px;
   z-index: -1;
   opacity: 1;
-  position: relative;
 }
 
 #culture2 {
