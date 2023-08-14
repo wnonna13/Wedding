@@ -272,11 +272,10 @@ nav i {
   margin-top: 50px;
 }
 
-#culture2 h3 {
+#culture2 .heading {
   font-family: "Passions Conflict";
   font-size: 70px;
-  border: 2px solid red;
-  z-index: 30;
+  background-color: #82959d00;
 }
 
 #culture2 h3:hover {
@@ -347,6 +346,15 @@ nav i {
   margin: 10px;
   border: 2px solid yellow;
   padding: 0px;
+}
+
+#culture2 .cuisine {
+  background-image: url("/media/photos/canang.jpg");
+  background-size: cover;
+}
+
+#culture2 #cuisine {
+  background-color: #82959d00;
 }
 
 #culture2 .col-md-6 img {
