@@ -337,7 +337,13 @@ nav i {
 
 #culture2 .icons {
   padding: 30px 20px 10px 20px;
-  background-color: #090c07cd;
+  background-color: #090c07;
+  transition: all 250ms ease-in-out;
+}
+
+#culture2 .icons:hover {
+  background-color: #ba1616ac;
+  color: #eae35a;
 }
 
 #culture2 .col-md-6 {
@@ -345,16 +351,12 @@ nav i {
   max-height: 180px;
   margin: 10px;
   padding: 0px;
+  transition: all 250ms ease-in-out;
 }
 
 #culture2 .cuisine {
   color: #82959d;
-}
-
-#culture2 .cuisine:hover {
-  background-image: url("/media/photos/canang.jpg");
-  background-size: cover;
-  color: #eae35a;
+  transition: all 250ms ease-in-out;
 }
 
 #culture2 #cuisine {
