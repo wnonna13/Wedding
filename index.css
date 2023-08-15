@@ -347,6 +347,10 @@ nav i {
   position: absolute;
 }
 
+#culture2 .below:hover {
+  border: 2px solid yellow;
+}
+
 #culture2 .icons {
   padding: 30px 20px 10px 20px;
   background-color: #090c07d3;
@@ -355,7 +359,8 @@ nav i {
 
 #culture2 .icons:hover {
   background-color: rgba(7, 3, 3, 0.115);
-  color: #eae35a;
+  color: #fff394;
+  text-shadow: rgb(0, 0, 0) 1px 0 1px;
 }
 
 #culture2 .col-md-6 {
