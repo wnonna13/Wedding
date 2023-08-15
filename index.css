@@ -368,7 +368,7 @@ nav i {
 }
 
 #culture2 #u1:hover {
-  background-image: url(/media/photos/Nasi_Campur.jpeg);
+  background-image: url("/media/photos/Nasi_Campur.jpeg");
   background-size: cover;
 }
 
@@ -378,7 +378,7 @@ nav i {
 }
 
 #culture2 #u2:hover {
-  background-image: url(/media/photos/songket.png);
+  background-image: url("/media/photos/songket.png");
   background-size: cover;
 }
 
@@ -388,7 +388,7 @@ nav i {
 }
 
 #culture2 #u3:hover {
-  background-image: url(/media/photos/temple.jpeg);
+  background-image: url("/media/photos/temple.jpeg");
   background-size: cover;
 }
 
