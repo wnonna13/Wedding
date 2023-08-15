@@ -373,12 +373,22 @@ nav i {
 }
 
 #culture2 #u2 {
-  background-image: url("/media/photos/clothing.png");
+  background-image: url("/media/photos/songket.png");
   background-size: cover;
 }
 
 #culture2 #u2:hover {
-  background-image: url(/media/photos/clothing.png);
+  background-image: url(/media/photos/songket.png);
+  background-size: cover;
+}
+
+#culture2 #u3 {
+  background-image: url("/media/photos/temple.jpeg");
+  background-size: cover;
+}
+
+#culture2 #u3:hover {
+  background-image: url(/media/photos/temple.jpeg);
   background-size: cover;
 }
 
