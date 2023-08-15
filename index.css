@@ -335,14 +335,26 @@ nav i {
   align-items: center;
 }
 
+#culture2 .sate {
+}
+
+#culture2 .below {
+  width: 300px;
+  height: 180px;
+  background-image: url("/media/photos/canang.jpg");
+  background-size: cover;
+  z-index: -10;
+  position: absolute;
+}
+
 #culture2 .icons {
   padding: 30px 20px 10px 20px;
-  background-color: #090c07;
+  background-color: #090c07d3;
   transition: all 500ms ease-in-out;
 }
 
 #culture2 .icons:hover {
-  background-color: #070303ac;
+  background-color: rgba(7, 3, 3, 0.115);
   color: #eae35a;
 }
 
