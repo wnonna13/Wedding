@@ -338,14 +338,8 @@ nav i {
 #culture2 .underlayer {
   width: 300px;
   height: 180px;
-  background-image: url("/media/photos/Nasi_Campur.jpeg");
-  background-size: cover;
   z-index: -10;
   position: absolute;
-}
-
-#culture2 .underlayer:hover {
-  border: 2px solid yellow;
 }
 
 #culture2 .icons {
@@ -368,7 +362,12 @@ nav i {
   transition: all 500ms ease-in-out;
 }
 
-#culture2 .col-md-6:hover {
+#culture2 #u1 {
+  background-image: url("/media/photos/Nasi_Campur.jpeg");
+  background-size: cover;
+}
+
+#culture2 #u1:hover {
   background-image: url(/media/photos/Nasi_Campur.jpeg);
   background-size: cover;
 }
