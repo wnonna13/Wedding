@@ -335,7 +335,7 @@ nav i {
   align-items: center;
 }
 
-#culture2 .below {
+#culture2 .underlayer {
   width: 300px;
   height: 180px;
   background-image: url("/media/photos/Nasi_Campur.jpeg");
@@ -344,7 +344,7 @@ nav i {
   position: absolute;
 }
 
-#culture2 .below:hover {
+#culture2 .underlayer:hover {
   border: 2px solid yellow;
 }
 
