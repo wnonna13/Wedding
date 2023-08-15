@@ -341,7 +341,7 @@ nav i {
 #culture2 .below {
   width: 300px;
   height: 180px;
-  background-image: url("/media/photos/canang.jpg");
+  background-image: url("/media/photos/Nasi_Campur.jpeg");
   background-size: cover;
   z-index: -10;
   position: absolute;
@@ -359,8 +359,8 @@ nav i {
 
 #culture2 .icons:hover {
   background-color: rgba(7, 3, 3, 0.115);
-  color: #fff394;
-  text-shadow: rgb(0, 0, 0) 1px 0 1px;
+  color: #d4c7bd;
+  text-shadow: rgb(0, 0, 0) 1px 0 8px;
 }
 
 #culture2 .col-md-6 {
@@ -372,7 +372,7 @@ nav i {
 }
 
 #culture2 .col-md-6:hover {
-  background-image: url(/media/photos/canang.jpg);
+  background-image: url(/media/photos/Nasi_Campur.jpeg);
   background-size: cover;
 }
 
@@ -382,7 +382,7 @@ nav i {
 }
 
 #culture2 #cuisine {
-  background-color: #82959d00;
+  background-color: #00000000;
 }
 
 /*#culture2 #cuisine:hover {
