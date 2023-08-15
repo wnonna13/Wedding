@@ -357,7 +357,7 @@ nav i {
 #culture2 .icons:hover {
   background-color: rgba(7, 3, 3, 0.115);
   color: #d4c7bd;
-  text-shadow: rgb(0, 0, 0) 1px 0 px;
+  text-shadow: rgb(0, 0, 0) 1px 0 8px;
 }
 
 #culture2 .col-md-6 {
