@@ -378,7 +378,10 @@ nav i {
   transition: all 250ms ease-in-out;
 }
 
-#culture2 #cuisine {
+#culture2 #cuisine,
+#culture2 #clothes,
+#culture2 #rituals,
+#culture2 #regions {
   background-color: #00000000;
 }
 
