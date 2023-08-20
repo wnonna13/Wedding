@@ -415,6 +415,11 @@ nav i {
   background-color: #00000000;
 }
 
+#culture2 a {
+  text-decoration: none;
+  color: #d4c7bd;
+}
+
 /*#culture2 #cuisine:hover {
   color: #eae35a;
 }*/
