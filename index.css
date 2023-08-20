@@ -428,16 +428,6 @@ nav i {
   font-size: 80px;
 }
 
-#culture2 button {
-  z-index: 20;
-  border: 2px solid green;
-  background-color: yellow;
-}
-
-#culture2 button:hover {
-  z-index: 20;
-}
-
 /* CULTURE */
 #culture .fill {
   background-image: url("/media/photos/canang.jpg");
