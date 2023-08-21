@@ -45,7 +45,7 @@ nav {
   transition: 250ms all ease-in-out;
 }
 
-.navbar-nav a:hover,
+.navbar-nav a:not(.culture):hover,
 .n-div:hover {
   background-color: #82959d;
   color: black;
@@ -59,6 +59,11 @@ navbar-nav {
 nav i {
   color: #d4c7bd;
   margin-top: 5px;
+}
+
+nav .culture {
+  width: inherit;
+  height: inherit;
 }
 
 .n-div {
