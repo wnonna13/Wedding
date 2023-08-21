@@ -52,6 +52,10 @@ nav {
   border-radius: 5px;
 }
 
+.dropdown-item {
+  width: 80%;
+}
+
 navbar-nav {
   background-color: #d4c7bd;
 }
@@ -62,8 +66,7 @@ nav i {
 }
 
 nav .culture {
-  width: inherit;
-  height: inherit;
+  margin-left: -10px;
 }
 
 .n-div {
