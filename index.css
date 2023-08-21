@@ -35,7 +35,8 @@ nav {
   background-color: rgba(0, 0, 0, 0.828);
 }
 
-.navbar-nav a {
+.navbar-nav a,
+.n-div {
   color: #d4c7bd;
   font-size: 20px;
   font-family: "Joan";
@@ -44,7 +45,8 @@ nav {
   transition: 250ms all ease-in-out;
 }
 
-.navbar-nav a:hover {
+.navbar-nav a:hover,
+.n-div:hover {
   background-color: #82959d;
   color: black;
   border-radius: 5px;
@@ -57,6 +59,11 @@ navbar-nav {
 nav i {
   color: #d4c7bd;
   margin-top: 5px;
+}
+
+.n-div {
+  display: flex;
+  flex-direction: row;
 }
 
 .navbar-brand {
