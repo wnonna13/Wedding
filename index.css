@@ -84,6 +84,42 @@ nav .culture {
   border: 2px solid #d4c7bd;
 }
 
+.n-div:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.navbar-nav a:not(.main-dropdown):not(.additional):hover {
+  background-color: #82959d;
+  padding-left: 30px;
+  color: black;
+  border-radius: 5px;
+}
+
+.navbar-nav .main-dropdown {
+  height: 30px;
+  transition: all 150ms ease-in-out;
+}
+
+.navbar-nav .main-dropdown:hover {
+  background-color: #82959d;
+  height: 30px;
+  padding-left: 28px;
+  color: black;
+  border-radius: 5px;
+}
+
+nav .dropdown-menu {
+  background-color: #333437;
+}
+nav .sub {
+  background-color: #333437;
+  color: #d4c7bd;
+}
+
+.dropdown-divider {
+  visibility: hidden;
+}
+
 /* HERO */
 
 #hero {
@@ -740,14 +776,6 @@ footer a:hover {
 
   .dropdown-divider {
     visibility: hidden;
-  }
-
-  .arrow:hover {
-  }
-
-  .drowdown-toggle {
-    color: green;
-    border: 2px solid green;
   }
 
   /* HERO */
