@@ -709,6 +709,14 @@ footer a:hover {
     border-radius: 5px;
   }
 
+  nav .dropdown-menu {
+    background-color: black;
+    margin-left: -200px;
+  }
+  nav .sub {
+    background-color: #d4c7bd;
+  }
+
   /* HERO */
   .hero-headings {
     display: none;
