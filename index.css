@@ -701,8 +701,20 @@ footer a:hover {
     transition: 350ms all ease-in-out;
   }
 
-  .navbar-nav a:hover {
+  .n-div {
+    border: 2px solid red;
+  }
+
+  .navbar-nav a:not(.main-dropdown):hover {
     background-color: #82959d;
+    padding-left: 30px;
+    color: black;
+    border-radius: 5px;
+  }
+
+  .navbar-nav .main-dropdown:hover {
+    background-color: #ff0101;
+    height: 30px;
     padding-left: 30px;
     color: black;
     border-radius: 5px;
