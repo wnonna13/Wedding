@@ -697,7 +697,7 @@ footer a:hover {
 
   /* NAVBAR */
   .navbar-nav a {
-    width: 80%;
+    width: 60%;
     transition: 350ms all ease-in-out;
   }
 
@@ -709,8 +709,8 @@ footer a:hover {
   }
 
   nav .dropdown-menu {
-    background-color: black;
-    margin-left: -200px;
+    background-color: #82959d00;
+    margin-left: -380px;
   }
   nav .sub {
     background-color: #d4c7bd;
