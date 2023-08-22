@@ -702,7 +702,6 @@ footer a:hover {
   }
 
   .n-div {
-    border: 2px solid red;
     background-color: #00000000;
   }
 
@@ -723,12 +722,11 @@ footer a:hover {
   }
 
   .navbar-nav .main-dropdown:hover {
-    background-color: #ff0101;
+    background-color: #82959d;
     height: 30px;
     padding-left: 28px;
     color: black;
     border-radius: 5px;
-    border: 2px solid green;
   }
 
   nav .dropdown-menu {
@@ -738,6 +736,10 @@ footer a:hover {
   nav .sub {
     background-color: #333437;
     color: #ffffff;
+  }
+
+  .dropdown-divider {
+    visibility: hidden;
   }
 
   /* HERO */
