@@ -709,7 +709,7 @@ footer a:hover {
     background-color: rgba(0, 0, 0, 0);
   }
 
-  .navbar-nav a:not(.main-dropdown):hover {
+  .navbar-nav a:not(.main-dropdown):not(.additional):hover {
     background-color: #82959d;
     padding-left: 30px;
     color: black;
@@ -731,15 +731,23 @@ footer a:hover {
 
   nav .dropdown-menu {
     background-color: #82959d00;
-    margin-left: -380px;
+    margin-left: -280px;
   }
   nav .sub {
     background-color: #333437;
-    color: #ffffff;
+    color: #d4c7bd;
   }
 
   .dropdown-divider {
     visibility: hidden;
+  }
+
+  .arrow:hover {
+  }
+
+  .drowdown-toggle {
+    color: green;
+    border: 2px solid green;
   }
 
   /* HERO */
