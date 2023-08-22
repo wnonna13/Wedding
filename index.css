@@ -697,14 +697,13 @@ footer a:hover {
 
   /* NAVBAR */
   .navbar-nav a {
-    width: 40%;
+    width: 80%;
     transition: 350ms all ease-in-out;
   }
 
   .navbar-nav a:hover {
     background-color: #82959d;
     padding-left: 30px;
-    width: 40%;
     color: black;
     border-radius: 5px;
   }
