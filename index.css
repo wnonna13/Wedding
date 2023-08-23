@@ -716,6 +716,29 @@ footer a:hover {
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* RITUALS PAGE */
+#rituals {
+  background-color: black;
+  padding-top: 100px;
+}
+
+#rituals .col-sm-4 {
+  border: 2px solid red;
+}
+
+#rituals img {
+  padding-top: 30px;
+}
+
+#rituals p {
+  padding: 10px;
+}
+
+#rituals h4 {
+  text-align: center;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* MEDIA QUERIES */
 
