@@ -720,6 +720,7 @@ footer a:hover {
 #rituals {
   background-color: black;
   padding-top: 100px;
+  text-align: center;
 }
 
 #rituals .col-sm-4 {
