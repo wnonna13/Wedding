@@ -741,6 +741,28 @@ footer a:hover {
 
 /* CLOTHING PAGE */
 
+#clothing {
+  background-color: black;
+  padding-top: 100px;
+  text-align: center;
+}
+
+#clothing .col-sm-4 {
+  border: 2px solid red;
+}
+
+#clothing img {
+  padding-top: 30px;
+}
+
+#clothing p {
+  padding: 10px;
+}
+
+#clothing h4 {
+  text-align: center;
+}
+
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* MEDIA QUERIES */
