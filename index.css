@@ -717,25 +717,25 @@ footer a:hover {
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 /* RITUALS PAGE */
-#rituals {
+#ritualspage {
   background-color: black;
   padding-top: 100px;
   text-align: center;
 }
 
-#rituals .col-sm-4 {
+#ritualspage .col-sm-4 {
   border: 2px solid red;
 }
 
-#rituals img {
+#ritualspage img {
   padding-top: 30px;
 }
 
-#rituals p {
+#ritualspage p {
   padding: 10px;
 }
 
-#rituals h4 {
+#ritualspage h4 {
   text-align: center;
 }
 
