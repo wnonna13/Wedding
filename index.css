@@ -805,13 +805,9 @@ footer a:hover {
   background-color: #82959d00;
 }
 
-#cuisinepage h3:hover {
-  background-color: green;
-}
-
-#cuisinepage .clothes:hover {
-  background-color: pink;
-  z-index: 30;
+#cuisinepage span {
+  display: inline-block;
+  color: black;
 }
 
 #cuisinepage h4 {
