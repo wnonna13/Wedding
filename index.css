@@ -783,6 +783,8 @@ footer a:hover {
 
 #cuisinepage .card {
   background-color: red;
+  border: 2px solid green;
+  margin-bottom: 50px;
 }
 
 #cuisinepage .test-collapse {
