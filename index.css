@@ -765,11 +765,17 @@ footer a:hover {
 
 /* CUISINE PAGE */
 #cuisinepage .btn {
-  background-color: red;
+  background-color: #333437;
   width: 180px;
   height: 60px;
   text-align: center;
   font-size: 30px;
+  transition: all 250ms ease-in-out;
+  border: 1px solid #82959d;
+}
+
+#cuisinepage .btn:hover {
+  background-color: blue;
 }
 
 #cuisinepage #cuisinepage h2 {
