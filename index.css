@@ -772,10 +772,12 @@ footer a:hover {
   font-size: 30px;
   transition: all 250ms ease-in-out;
   border: 1px solid #82959d;
+  color: #d4c7bd;
 }
 
 #cuisinepage .btn:hover {
-  background-color: blue;
+  background-color: #d4c7bd;
+  color: black;
 }
 
 #cuisinepage #cuisinepage h2 {
