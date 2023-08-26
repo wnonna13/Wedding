@@ -763,6 +763,101 @@ footer a:hover {
   text-align: center;
 }
 
+/* CUISINE PAGE */
+#cuisinepage #cuisinepage h2 {
+  margin-top: 50px;
+}
+
+#cuisinepage .heading {
+  font-family: "Passions Conflict";
+  font-size: 70px;
+  background-color: #82959d00;
+}
+
+#cuisinepage h3:hover {
+  background-color: green;
+}
+
+#cuisinepage .clothes:hover {
+  background-color: pink;
+  z-index: 30;
+}
+
+#cuisinepage h4 {
+  color: #82959d;
+  line-height: 140%;
+}
+
+#cuisinepage h5 {
+  color: #d4c7bd;
+  font-size: 20px;
+  margin-top: 15px;
+  font-family: "Joan";
+}
+
+#cuisinepage .background-img {
+  padding: 0 0 0 30px;
+  min-height: 500px;
+  z-index: -1;
+  opacity: 1;
+}
+
+#cuisinepage {
+  color: black;
+  margin-right: 20px;
+}
+
+#cuisinepage .container {
+  z-index: 10;
+  color: #d4c7bd;
+  top: 20%;
+  bottom: 20%;
+  left: 10%;
+  max-width: 100%;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#cuisinepage .row {
+  width: 100%;
+  padding-top: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#cuisinepage .underlayer {
+  width: 300px;
+  height: 180px;
+  z-index: -10;
+  position: absolute;
+}
+
+#cuisinepage .icons {
+  padding: 30px 20px 10px 20px;
+  background-color: #090c07d3;
+  transition: all 500ms ease-in-out;
+}
+
+#cuisinepage .icons:hover {
+  background-color: rgba(7, 3, 3, 0.115);
+  color: #d4c7bd;
+  text-shadow: rgb(0, 0, 0) 1px 0 8px;
+}
+
+#cuisinepage .col-md-6 {
+  max-width: 300px;
+  max-height: 180px;
+  margin: 10px;
+  padding: 0px;
+  transition: all 500ms ease-in-out;
+}
+
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* MEDIA QUERIES */
