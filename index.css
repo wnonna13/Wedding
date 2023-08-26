@@ -813,6 +813,7 @@ footer a:hover {
 #cuisinepage img {
   display: inline-block;
   margin: 0 auto;
+  width: 80%;
 }
 
 #cuisinepage h4 {
