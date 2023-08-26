@@ -773,7 +773,7 @@ footer a:hover {
   transition: all 250ms ease-in-out;
   border: 1px solid #82959d;
   color: #d4c7bd;
-  margin: 0 20px 0 20px;
+  margin: 20px 20px 0 20px;
 }
 
 #cuisinepage .btn:hover {
@@ -783,6 +783,10 @@ footer a:hover {
 
 #cuisinepage .card {
   background-color: red;
+}
+
+#cuisinepage .test-collapse {
+  border: 2px solid red;
 }
 
 #cuisinepage #cuisinepage h2 {
