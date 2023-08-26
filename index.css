@@ -780,6 +780,10 @@ footer a:hover {
   color: black;
 }
 
+#cuisinepage .card {
+  background-color: red;
+}
+
 #cuisinepage #cuisinepage h2 {
   margin-top: 50px;
 }
