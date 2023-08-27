@@ -823,13 +823,6 @@ footer a:hover {
   font-family: "Joan";
 }
 
-#cuisinepage .background-img {
-  padding: 0 0 0 30px;
-  min-height: 500px;
-  z-index: -1;
-  opacity: 1;
-}
-
 #cuisinepage {
   color: black;
   margin-right: 20px;
@@ -848,6 +841,7 @@ footer a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-top: 50px;
 }
 
 #cuisinepage .row {
