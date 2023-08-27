@@ -787,12 +787,7 @@ footer a:hover {
 
 #cuisinepage .card {
   background-color: #33343783;
-  border: 2px solid #d4c7bd4f;
   margin-bottom: 50px;
-}
-
-#cuisinepage .test-collapse {
-  border: 2px solid red;
 }
 
 #cuisinepage #cuisinepage h2 {
