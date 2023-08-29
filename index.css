@@ -786,6 +786,11 @@ footer a:hover {
   color: black;
 }
 
+#refpage .middle {
+  width: 205px;
+  margin: 0 15px 0 10px;
+}
+
 #refpage .row {
   margin-left: 0;
 }
