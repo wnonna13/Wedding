@@ -776,6 +776,11 @@ footer a:hover {
   margin: 20px 20px 0 20px;
 }
 
+#refpage .small-font {
+  font-size: 22px;
+  height: 80px;
+}
+
 #refpage .btn:hover {
   background-color: #d4c7bd;
   color: black;
