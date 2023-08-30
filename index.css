@@ -739,30 +739,6 @@ footer a:hover {
   text-align: center;
 }
 
-/* CLOTHING PAGE */
-
-#clothingpage {
-  background-color: black;
-  padding-top: 100px;
-  text-align: center;
-}
-
-#clothingpage .col-sm-4 {
-  border: 2px solid red;
-}
-
-#clothingpage img {
-  padding-top: 30px;
-}
-
-#clothingpage p {
-  padding: 10px;
-}
-
-#clothingpage h4 {
-  text-align: center;
-}
-
 /* REF PAGE */
 #refpage .btn {
   background-color: #333437;
