@@ -951,8 +951,11 @@ footer a:hover {
   }
 
   /* REF PAGE */
-  #refpage button {
-    display: block;
+  #refpage p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   #refpage .hide {
