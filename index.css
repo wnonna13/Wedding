@@ -718,7 +718,8 @@ footer a:hover {
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* REF PAGE */
-#refpage .btn {
+#refpage .btn,
+#phone-display .btn {
   background-color: #333437;
   width: 180px;
   height: 60px;
@@ -730,59 +731,70 @@ footer a:hover {
   margin: 20px 20px 0 20px;
 }
 
-#refpage .small-font {
+#refpage .small-font,
+#phone-display .small-font {
   font-size: 22px;
   height: 80px;
 }
 
-#refpage .btn:hover {
+#refpage .btn:hover,
+#phone-display .btn:hover {
   background-color: #d4c7bd;
   color: black;
 }
 
-#refpage .middle {
+#refpage .middle,
+#phone-display .middle {
   width: 205px;
   margin: 0 15px 0 0px;
 }
 
-#refpage .row {
+#refpage .row,
+#phone-display .row {
   margin-left: 0;
 }
 
-#refpage .card {
+#refpage .card,
+#phone-display .card {
   background-color: #33343783;
   margin-bottom: 50px;
   height: 520px;
 }
 
-#refpage #refpage h2 {
+#refpage #refpage h2,
+#phone-display h2 {
   margin-top: 50px;
 }
 
-#refpage .heading {
+#refpage .heading,
+#phone-display .heading {
   font-family: "Passions Conflict";
   font-size: 70px;
   background-color: #82959d00;
 }
 
-#refpage span {
+#refpage span,
+#phone-display span {
   color: #82959d;
   display: inline-block !important;
 }
 
-#refpage img {
+#refpage img,
+#phone-display img {
   display: inline-block;
   margin: 0 auto;
   width: 80%;
   padding: 10px;
 }
 
-#refpage h4 {
+#refpage h4,
+#phone-display h4 {
   color: #82959d;
   line-height: 140%;
 }
 
-#refpage h5 {
+#refpage h5,
+#phone-display h5 {
   color: #d4c7bd;
   font-size: 20px;
   margin-top: 15px;
@@ -790,12 +802,14 @@ footer a:hover {
   padding: 10px;
 }
 
-#refpage {
+#refpage,
+#phone-display {
   color: black;
   margin-right: 20px;
 }
 
-#refpage .container {
+#refpage .container,
+#phone-display .container {
   z-index: 10;
   color: #d4c7bd;
   top: 20%;
@@ -811,7 +825,8 @@ footer a:hover {
   margin-top: 50px;
 }
 
-#refpage .row {
+#refpage .row,
+#phone-display .row {
   width: 100%;
   padding-top: 5%;
   display: flex;
