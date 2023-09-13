@@ -839,6 +839,13 @@ footer a:hover {
 
 /* MEDIA QUERIES */
 
+@media (min-width: 720px) {
+  /* REFERENCE PAGE */
+  #phone-display {
+    display: none;
+  }
+}
+
 /* MAX WIDTH 720PX */
 
 @media (max-width: 720px) {
