@@ -722,7 +722,7 @@ footer a:hover {
 #phone-display .btn {
   background-color: #333437;
   width: 180px;
-  height: 60px;
+  height: 100px;
   text-align: center;
   font-size: 30px;
   transition: all 250ms ease-in-out;
