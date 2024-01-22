@@ -848,9 +848,15 @@ footer a:hover {
   margin-right: 100px;
 }
 
-.new-clothing .text-bali {
-  background-image: url("media/photos/clothing_batikgold.png");
+.kain {
   opacity: 0.5;
+  width: 600px;
+  height: 1000px;
+  background-image: url("/media/photos/clothing_batikgold.png");
+}
+
+.bridegroom2 {
+  z-index: 20;
 }
 
 .baliclothing {
