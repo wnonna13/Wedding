@@ -841,8 +841,8 @@ footer a:hover {
   border: 2px solid red;
   margin-left: 0;
   padding-left: 0;
-  width: 50%;
-  height: 800px;
+  width: 55%;
+  height: 700px;
   background-image: url("media/photos/clothing_batikgold.png");
   opacity: 0.4;
   z-index: -10;
@@ -865,7 +865,25 @@ footer a:hover {
   background-color: black;
   margin: 50px;
   padding: 10px;
+}
+
+#clothing .bridegroom {
   text-align: left;
+  margin-right: 0;
+  width: 40%;
+}
+
+#clothing .bridegroom2 {
+  margin-left: 200px;
+}
+
+.clothing-guests {
+  margin-top: 100px;
+}
+
+#clothing .guests {
+  text-align: right;
+  top: 10px;
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
