@@ -836,6 +836,17 @@ footer a:hover {
 }
 
 /*NEW CLOTHING */
+.new-clothing {
+  padding-top: 200px;
+  border: 2px solid green;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.new-clothing h2 {
+  border: 2px solid yellow;
+}
+
 #clothing-hero {
   position: absolute;
   margin-left: 0;
@@ -862,7 +873,6 @@ footer a:hover {
 }
 
 .baliclothing {
-  position: absolute;
   top: 250px;
   right: 50px;
   border: 2px solid red;
