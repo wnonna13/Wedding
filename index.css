@@ -849,14 +849,21 @@ footer a:hover {
 }
 
 .kain {
+  position: absolute;
   opacity: 0.5;
   width: 600px;
   height: 1000px;
+  z-index: 5;
   background-image: url("/media/photos/clothing_batikgold.png");
 }
 
 .bridegroom2 {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 50px;
   z-index: 20;
+  border: 2px solid red;
+  background-color: black;
 }
 
 .baliclothing {
