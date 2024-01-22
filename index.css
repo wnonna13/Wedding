@@ -844,7 +844,17 @@ footer a:hover {
 }
 
 .new-clothing h2 {
-  border: 2px solid yellow;
+  text-align: right;
+  margin-right: 100px;
+}
+
+.new-clothing .text-bali {
+  background-image: url("media/photos/clothing_batikgold.png");
+  opacity: 0.5;
+}
+
+.baliclothing {
+  margin-left: 100px;
 }
 
 #clothing-hero {
@@ -870,13 +880,6 @@ footer a:hover {
 
 #clothing .clothing-text {
   font-family: "Joan";
-}
-
-.baliclothing {
-  top: 250px;
-  right: 50px;
-  border: 2px solid red;
-  z-index: 15;
 }
 
 #clothing h4 {
