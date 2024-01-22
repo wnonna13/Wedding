@@ -843,7 +843,7 @@ footer a:hover {
   width: 55%;
   height: 1000px;
   background-image: url("media/photos/clothing_batikgold.png");
-  opacity: 0.4;
+  opacity: 0.5;
   z-index: -10;
 }
 
@@ -854,6 +854,7 @@ footer a:hover {
 #clothing h2 {
   margin-top: 50px;
   margin-left: 25px;
+  text-align: right;
 }
 
 #clothing .clothing-text {
