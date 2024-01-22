@@ -861,6 +861,14 @@ footer a:hover {
   font-family: "Joan";
 }
 
+.baliclothing {
+  position: absolute;
+  top: 250px;
+  right: 50px;
+  border: 2px solid red;
+  z-index: 15;
+}
+
 #clothing h4 {
   background-color: black;
   margin: 50px;
