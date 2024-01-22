@@ -857,17 +857,41 @@ footer a:hover {
   background-image: url("/media/photos/clothing_batikgold.png");
 }
 
-.bridegroom2 {
+.bridegroom,
+.bridegroom2,
+.bridegroom3,
+.bridegroom4 {
   position: absolute;
-  margin-top: 200px;
-  margin-left: 50px;
   z-index: 20;
-  border: 2px solid red;
   background-color: black;
+  padding: 10px;
+}
+
+.bridegroom {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+.bridegroom2 {
+  margin-top: 250px;
+  margin-left: 100px;
+}
+
+.bridegroom3 {
+  margin-top: 500px;
+  margin-left: 100px;
+}
+
+.bridegroom4 {
+  margin-top: 600px;
+  margin-left: 160px;
 }
 
 .baliclothing {
-  margin-left: 100px;
+  padding-left: 100px;
+  margin-right: 50px;
+  margin-top: 50px;
+  z-index: 40;
 }
 
 #clothing-hero {
