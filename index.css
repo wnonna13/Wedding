@@ -917,6 +917,10 @@ footer a:hover {
     font-size: 18px;
   }
 
+  .hide-for-small-screens {
+    display: none;
+  }
+
   /* NAVBAR */
   .navbar-nav a {
     width: 60%;
