@@ -1145,4 +1145,31 @@ footer a:hover {
   }
 
   /* CLOTHING */
+  /* NEW REGIONS */
+
+  .new-region h2 {
+    text-align: center;
+    margin-left: 70px;
+  }
+
+  #new-region2 .background-img {
+    margin-top: 200px;
+    margin: 100px 20px 0 30px;
+  }
+
+  #new-region2 .row-1 {
+    margin-top: -50px;
+  }
+
+  #new-region2 .row-2 {
+    margin-top: 10px;
+  }
+  #new-region2 .row-3 {
+    margin-top: 10px;
+  }
+
+  #new-region2 .fill-1,
+  #new-region2 .fill-2 {
+    margin-bottom: 150px;
+  }
 }
