@@ -838,7 +838,6 @@ footer a:hover {
 /*NEW CLOTHING */
 .new-clothing {
   padding-top: 100px;
-  border: 2px solid green;
   margin-left: 0;
   padding-left: 0;
 }
@@ -1043,4 +1042,6 @@ footer a:hover {
   #refpage {
     display: none;
   }
+
+  /* CLOTHING */
 }
