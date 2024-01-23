@@ -958,6 +958,17 @@ footer a:hover {
   padding-top: 5%;
 }
 
+#new-region2 .row-1 {
+  margin-top: 10%;
+}
+#new-region2 .row-2 {
+  margin-top: -100px;
+}
+
+#new-region2 .row-3 {
+  margin-top: -100px;
+}
+
 #new-region2 .day-1,
 #new-region2 .day-2 {
   padding: 10px 20px 10px 20px;
