@@ -920,6 +920,18 @@ footer a:hover {
   transition: all 150ms ease-in-out;
 }
 
+#new-region2 .fill-1 {
+  background-image: url("/media/photos/new-regions-jatiluwih.jpeg");
+}
+
+#new-region2 .fill-2 {
+  background-image: url("/media/photos/new-regions-denpasar.png");
+}
+
+#new-region2 .fill-3 {
+  background-image: url("/media/photos/new-regions-kuta.jpeg");
+}
+
 #new-region2 h2 {
   margin-top: 50px;
 }
