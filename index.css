@@ -897,8 +897,7 @@ footer a:hover {
 /* NEW_REGIONS */
 .new-region h2 {
   margin-top: 100px;
-  margin-bottom: 0;
-  border: 2px solid red;
+  margin-bottom: 25px;
 }
 
 #new-region2 .fill {
@@ -910,6 +909,7 @@ footer a:hover {
   min-height: 250px;
   opacity: 0.4;
   margin: 15px 0 0 0;
+  transition: all 150ms ease-in-out;
 }
 
 #new-region2 h2 {
