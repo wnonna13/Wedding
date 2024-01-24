@@ -1003,6 +1003,14 @@ footer a:hover {
   font-size: 40px;
 }
 
+/* NEW RITUALS */
+
+#ourstory .photo-credits {
+  color: #82959d80;
+  margin-top: 20px;
+  font-size: small;
+}
+
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 /* MEDIA QUERIES */
