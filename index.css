@@ -1125,6 +1125,15 @@ footer a:hover {
     font-size: 20px;
   }
 
+  #whenwhere2 .loc {
+    display: inline-block;
+  }
+
+  #whenwhere2 i {
+    display: inline-block;
+    position: static;
+  }
+
   #whenwhere .change-color {
     color: #d4c7bd;
   }
