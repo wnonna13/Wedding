@@ -299,9 +299,13 @@ nav .sub {
   font-size: 60px;
 }
 
-#questions .email:hover {
+#questions a {
+  color: #82959d;
+}
+
+#questions .email:hover,
+#questions a:hover {
   color: #eae35a;
-  padding: 0 8px 0 8px;
   border-radius: 3px;
   cursor: pointer;
 }
