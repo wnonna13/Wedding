@@ -923,12 +923,14 @@ footer a:hover {
 .new-region h2 {
   text-align: center;
   margin-right: 50px;
+  margin-left: 50px;
   margin-top: 100px;
   margin-bottom: 25px;
 }
 
 .new-region h4 {
   text-align: center;
+  margin-left: 50px;
   margin-right: 50px;
   padding-bottom: 70px;
 }
