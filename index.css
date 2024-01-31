@@ -300,12 +300,13 @@ nav .sub {
 }
 
 #questions a {
-  color: #82959d;
+  font-weight: bold;
+  color: #eae35a;
 }
 
 #questions .email:hover,
 #questions a:hover {
-  color: #eae35a;
+  color: #82959d;
   border-radius: 3px;
   cursor: pointer;
 }
