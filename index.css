@@ -207,6 +207,16 @@ nav .sub {
   color: #82959d;
 }
 
+#whenwhere2 i {
+  color: red;
+  display: inline-block;
+}
+
+#whenwhere2 .loc {
+  border: 2px solid red;
+  display: inline-block;
+}
+
 #whenwhere2 .background-img {
   padding: 0 0 0 30px;
   min-height: 500px;
@@ -1135,11 +1145,6 @@ footer a:hover {
 
   #whenwhere2 .loc {
     display: inline-block;
-  }
-
-  #whenwhere2 i {
-    display: inline-block;
-    position: static;
   }
 
   #whenwhere .change-color {
