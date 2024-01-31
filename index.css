@@ -1067,7 +1067,7 @@ footer a:hover {
 
   /* NAVBAR */
   .navbar-nav a {
-    width: 60%;
+    width: 80%;
     transition: 350ms all ease-in-out;
   }
 
