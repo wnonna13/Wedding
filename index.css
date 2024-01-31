@@ -208,12 +208,15 @@ nav .sub {
 }
 
 #whenwhere2 i {
-  color: red;
+  color: #d4c7bd;
   display: inline-block;
+  margin-right: 5px;
+  font-size: 22px;
 }
 
 #whenwhere2 .loc {
   display: inline-block;
+  color: #d4c7bd;
 }
 
 #whenwhere2 .background-img {
