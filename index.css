@@ -1160,6 +1160,20 @@ footer a:hover {
     color: #d4c7bd;
   }
 
+  /*CULTURE */
+  #culture2 p {
+    font-size: 16px;
+  }
+
+  #culture2 .underlayer {
+    border: 2px solid red;
+    opacity: 0;
+  }
+
+  #culture2 .icons {
+    border: 2px solid #d4c7bd;
+  }
+
   /* QUESTIONS */
   #questions h3 {
     font-size: 24px;
