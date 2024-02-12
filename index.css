@@ -1216,20 +1216,19 @@ footer a:hover {
   /* NEW REGIONS */
 
   #new-region2-phone img {
-    border: 2px solid red;
     width: 100%;
     margin-bottom: 0;
   }
 
   #new-region2-phone .city1 {
-    margin-top: -100px;
+    margin-top: -80px;
   }
 
   #new-region2-phone .city2 {
-    margin-top: 70px;
+    margin-top: 20px;
   }
 
   #new-region2-phone .city3 {
-    margin-top: 70px;
+    margin-top: 20px;
   }
 }
