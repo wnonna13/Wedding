@@ -1215,29 +1215,15 @@ footer a:hover {
   /* CLOTHING */
   /* NEW REGIONS */
 
-  .new-region h2 {
-    text-align: center;
-    margin-left: 70px;
+  #new-region2-phone .fill-1 img {
+    border: 2px solid red;
+    width: 100%;
+    margin-bottom: 0;
   }
 
-  #new-region2 .background-img {
-    margin-top: 200px;
-    margin: 100px 20px 0 30px;
-  }
-
-  #new-region2 .row-1 {
-    margin-top: -50px;
-  }
-
-  #new-region2 .row-2 {
-    margin-top: 10px;
-  }
-  #new-region2 .row-3 {
-    margin-top: 10px;
-  }
-
-  #new-region2 .fill-1,
-  #new-region2 .fill-2 {
-    margin-bottom: 150px;
+  #new-region2-phone .row {
+    border: 2px solid yellow;
+    margin-top: -30px;
+    margin-bottom: 60px;
   }
 }
